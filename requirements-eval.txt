@@ -1,0 +1,7 @@
+-r requirements.txt
+langchain==0.3.7
+langchain-community==0.3.7
+ragas==0.2.6
+mlflow==2.18.0
+datasets==3.1.0
+pandas==2.2.3

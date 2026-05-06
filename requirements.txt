@@ -1,0 +1,10 @@
+openai>=1.0.0
+fastapi==0.115.5
+uvicorn==0.32.0
+pydantic==2.9.2
+biopython==1.84
+langchain-text-splitters==0.3.2
+langchain-core==0.3.19
+numpy==1.26.4
+scikit-learn==1.8.0
+scipy==1.17.1
